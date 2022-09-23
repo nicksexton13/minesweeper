@@ -1,0 +1,16 @@
+/* body {
+    margin: 0;
+    background-color: black;
+} */
+#root {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+.center{
+    display: flex;
+    place-content: center center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
